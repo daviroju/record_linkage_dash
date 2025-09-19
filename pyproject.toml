@@ -8,7 +8,6 @@ dependencies = [
     "dash>=3.0.4",
     "dash-ag-grid>=31.3.1",
     "dash-bootstrap-components>=2.0.3",
-    "dedupe>=3.0.3",
     "faker>=37.8.0",
     "ipykernel>=6.29.5",
     "pandas>=2.2.3",
