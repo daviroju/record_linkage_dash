@@ -1,7 +1,7 @@
 [project]
-name = "prisoners-record-linkage"
+name = "record-linkage-dash"
 version = "0.1.0"
-description = "Add your description here"
+description = "A record linkage dashboard based on levenshtein distance."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
