@@ -19,7 +19,7 @@ Este projeto é uma adaptação de um sistema originalmente desenvolvido para bu
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/daviroju/record_linkage_dash.git
-   cd prisoners_record_linkage
+   cd record_linkage_dash
    ```
 2. **Instale as dependências com o uv:**
    ```bash
