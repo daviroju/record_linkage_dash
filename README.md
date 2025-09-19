@@ -18,10 +18,11 @@ Este projeto é uma adaptação de um sistema originalmente desenvolvido para bu
 ## Instalação
 1. **Clone o repositório:**
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/daviroju/record_linkage_dash.git
    cd prisoners_record_linkage
    ```
-2. **Instale as dependências:**
+2. **Instale as dependências com o uv:**
+   ```bash
     uv sync
    ```
 
