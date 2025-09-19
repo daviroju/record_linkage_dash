@@ -1,4 +1,4 @@
-# prisoners-record-linkage
+# Record Linkage Dash
 
 Este projeto é uma adaptação de um sistema originalmente desenvolvido para buscar dados relacionados entre três bases do sistema prisional goiano. A versão atual foi modificada para remover dependências de servidores do Tribunal de Justiça, tornando-o mais genérico e flexível para uso com diferentes bases de dados.
 
